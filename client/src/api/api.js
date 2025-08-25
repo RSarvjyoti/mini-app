@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:8080/api";
+const API_BASE = "https://mini-app-0jok.onrender.com/api";
 
 export const fetchAndStore = (username) =>
   axios.get(`${API_BASE}/repos/fetch`, { params: { username } });
