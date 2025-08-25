@@ -8,6 +8,7 @@
 - **Backend:** [mini-app-0jok.onrender.com](https://mini-app-0jok.onrender.com)
 
 ---
+<img width="1366" height="1772" alt="screencapture-localhost-5173-2025-08-25-22_55_54" src="https://github.com/user-attachments/assets/4c1ba8f9-3780-46b5-8a58-2d20530a4a63" />
 
 ## Features
 
